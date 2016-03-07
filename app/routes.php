@@ -18,6 +18,5 @@ Route::get('/', function()
 
 Route::get('/test', function()
 {
-	return "Finally";
+	return "Finallydklsajdkljas";
 });
-
